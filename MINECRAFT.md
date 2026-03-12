@@ -1,1 +1,1 @@
-sudo apt update && sudo apt-get install apache2 -y && sudo service apache2 reload && cd Eaglercraft-Server-config-main && sudo mv minecraft.html /var/www/html/ && sudo chmod +x run.sh && ./run.sh
+sudo apt-get update -y && sudo apt-get install apache2 -y && sudo service apache2 reload && cd Eaglercraft-Server-config-main && sudo mv minecraft.html /var/www/html/ && sudo chmod +x run.sh && ./run.sh
