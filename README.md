@@ -12,3 +12,4 @@ You can also download the EaglerMOTD plugin to animate your server's MOTD, and t
 
 ## CONFIGS FOR CHROME RUNNING:
 plugins are made simple to remove extra features, will add support for only 1.12 java and on, and maybe bedrock
+To set up server, open a codespace in this repo or download the local zip file of the main repo and upload it to a diffrent codespace, then run the command in MINECRAFT.md file
