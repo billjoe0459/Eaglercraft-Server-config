@@ -1,1 +1,1 @@
-sudo apt install update && sudo apt install apache2 && sudo service apache2 reload && mv minecraft.html /var/www/html/ && ./run.sh
+sudo apt install update && sudo apt install apache2 && sudo service apache2 reload && mv minecraft.html /var/www/html/ && sudo chmod +x run.sh && ./run.sh
